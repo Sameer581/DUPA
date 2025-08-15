@@ -1,5 +1,3 @@
-Create a file named README.md in your project folder and paste this content:
-
 # Data-Driven Air Quality Analysis – Greater Noida
 
 This project analyzes air quality data (PM2.5, PM10, CO emissions) from 2019 to 2023 to predict pollution trends and support mitigation strategies.  
@@ -43,7 +41,7 @@ git clone https://github.com/YourUsername/AirQualityAnalysis.git
 cd AirQualityAnalysis
 pip install -r requirements.txt
 
-Usage
+## Usage
 
 Place datasets inside data/ folder.
 
@@ -59,7 +57,7 @@ python src/train_model.py
 
 View results: Generated graphs are stored inside visuals/.
 
-Results
+## Results
 
 Improved PM prediction by 20%
 
